@@ -70,7 +70,7 @@ To extract the raw data (row) into a usable format
 
 ### Part 2
 To connect the database and read data
-* sqlite3
+* [sqlite3](https://docs.python.org/3.4/library/sqlite3.html)
 
 ### Part 3
 To perform functions using the extracted records and handle record creation errors
